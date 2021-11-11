@@ -1,0 +1,38 @@
+.main {
+  border: 1px solid blue;
+}
+.image-card {
+  width: 128px;
+  height: 318px;
+}
+.filled {
+  color: orange;
+}
+.circle-image {
+  border-radius: 50%;
+}
+.title h6 {
+  color: #23a6f0;
+}
+.title h2 {
+  color: #23a6f0;
+}
+.title h5 {
+  color: #252b42;
+}
+.title .span-text {
+  color: #23a6f0;
+}
+.colorPallet {
+  color: #23a6f0;
+}
+.image-header {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 20% !important;
+}
+.icons-tick {
+  height: 40px;
+  width: 40px;
+}
